@@ -2,6 +2,7 @@
 *.class
 target/
 Servers/
+classes/
 
 # Log file
 *.log
@@ -32,6 +33,7 @@ tmp/**/*
 *.bak
 *.swp
 *~.nib
+.mvn/
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

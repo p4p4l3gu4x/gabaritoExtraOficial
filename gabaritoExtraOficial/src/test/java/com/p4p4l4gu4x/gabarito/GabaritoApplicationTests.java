@@ -1,4 +1,4 @@
-package net.oficial.extra.gabarito;
+package com.p4p4l4gu4x.gabarito;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

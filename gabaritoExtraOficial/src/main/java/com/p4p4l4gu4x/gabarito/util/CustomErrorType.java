@@ -1,6 +1,5 @@
 package com.p4p4l4gu4x.gabarito.util;
 
-
 public class CustomErrorType {
 
     private String errorMessage;
@@ -12,5 +11,4 @@ public class CustomErrorType {
     public String getErrorMessage() {
         return errorMessage;
     }
-
 }

@@ -9,8 +9,6 @@ import org.springframework.stereotype.Service;
 
 import com.p4p4l4gu4x.gabarito.model.User;
 
-
-
 @Service("userService")
 public class UserServiceImpl implements UserService{
 	
